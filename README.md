@@ -1,4 +1,4 @@
-# 📚 Library Management System  
+# 📚 eLibrary Management System  
 
 A **Full Stack Web Application** built with **React (frontend)** and **Spring Boot (backend)**, integrated with **MySQL database**, providing a seamless experience for managing books, borrowing, reviews, and admin services.  
 
